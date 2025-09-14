@@ -1,0 +1,26 @@
+body {
+    background-color: skyblue;
+}
+
+h1 {
+    background-color: blue;
+    color: beige;
+    width: 50%;
+    margin: 10px 20px 20px 40px;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+
+#introduce {
+    padding-left: 60px;
+    background-color: pink;
+    font-style: oblique;
+    color: rgb(13, 42, 105);
+    border-radius : 10px 20px 40px 80px;
+    margin-bottom: 30px;
+}
+
+div {
+    background-color:blueviolet;
+    color:rgb(133, 179, 48)
+}
